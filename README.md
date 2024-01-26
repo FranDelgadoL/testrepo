@@ -1,5 +1,5 @@
-# testrepo
+# Classification with python 
 
-## Start editing the file
+## Weather data.
 
-Let's write something
+Assignment for Data Science Course
